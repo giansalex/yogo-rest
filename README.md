@@ -24,6 +24,7 @@ cd %GOPATH%/src/github.com/giansalex
 On Linux:
 ```
 cd $GOPATH/src/github.com/giansalex
+```
 
 Create the folders "github.com" and "giansalex" if not already created.
 
